@@ -1,0 +1,314 @@
+{
+  "labels":[
+            {
+              "label":"Class 1 - Motorcycle",
+              "categoryAttributes":[
+                {
+                    "name":"occupancy",
+                    "description":"Estimate occupancy of vehicle - if unsure do not select",
+                    "type":"number",
+                    "isRequired": false
+                }
+              ]
+            },
+            {
+              "label":"Class 2 - Passenger Car, SUV or Minivan",
+              "categoryAttributes":[
+                {
+                    "name":"occupancy",
+                    "description":"Estimate occupancy of vehicle - if unsure do not select",
+                    "type":"number",
+                    "isRequired": false
+                }
+              ]
+            },
+            {
+              "label":"Class 3 - Pickup, Panel, Van",
+              "categoryAttributes":[
+                {
+                    "name":"occupancy",
+                    "description":"Estimate occupancy of vehicle - if unsure do not select",
+                    "type":"number",
+                    "isRequired": false
+                }
+              ]
+            },
+            {
+              "label":"Class 4 - Commercial Bus",
+              "categoryAttributes":[
+                {
+                    "name":"occupancy",
+                    "description":"estimate occupancy of vehicle - if unsure do not select",
+                    "type":"number",
+                    "isRequired": false
+                }
+              ]
+            },
+            {
+              "label":"Class 4 - School Bus",
+              "categoryAttributes":[
+                {
+                    "name":"occupancy",
+                    "description":"estimate occupancy of vehicle - if unsure do not select",
+                    "type":"number",
+                    "isRequired": false
+                }
+              ]
+            },
+            {
+              "label":"Class 5 - Single Unit 2-Axle Truck",
+              "categoryAttributes":[
+                {
+                    "name":"occupancy",
+                    "description":"estimate occupancy of vehicle - if unsure do not select",
+                    "type":"number",
+                    "isRequired": false
+                }
+              ]
+            },
+            {
+              "label":"Class 6 - Single Unit 3-Axle Truck",
+              "categoryAttributes":[
+                {
+                    "name":"occupancy",
+                    "description":"estimate occupancy of vehicle - if unsure do not select",
+                    "type":"number",
+                    "isRequired": false
+                }
+              ]
+            },
+            {
+              "label":"Class 7 - Single Unit 4 or More Axle Truck",
+              "categoryAttributes":[
+                {
+                    "name":"occupancy",
+                    "description":"estimate occupancy of vehicle - if unsure do not select",
+                    "type":"number",
+                    "isRequired": false
+                }
+              ]
+            },
+            {
+              "label":"Class 8 - Single Trailer 3 or 4 Axle Truck",
+              "categoryAttributes":[
+                {
+                    "name":"occupancy",
+                    "description":"estimate occupancy of vehicle - if unsure do not select",
+                    "type":"number",
+                    "isRequired": false
+                }
+              ]
+            },
+            {
+              "label":"Class 9 - Single Trailer 5 Axle Truck",
+              "categoryAttributes":[
+                {
+                    "name":"occupancy",
+                    "description":"estimate occupancy of vehicle - if unsure do not select",
+                    "type":"number",
+                    "isRequired": false
+                }
+              ]
+            },
+            {
+              "label":"Class 10 - Single Trailer 6 or More Axle Truck",
+              "categoryAttributes":[
+                {
+                    "name":"occupancy",
+                    "description":"estimate occupancy of vehicle - if unsure do not select",
+                    "type":"number",
+                    "isRequired": false
+                }
+              ]
+            },
+            {
+              "label":"Class 11 - Multi Trailer 5 or Less Axle Truck",
+              "categoryAttributes":[
+                {
+                    "name":"occupancy",
+                    "description":"estimate occupancy of vehicle - if unsure do not select",
+                    "type":"number",
+                    "isRequired": false
+                }
+              ]
+            },
+            {
+              "label":"Class 12 - Multi Trailer 6 Axle Truck",
+              "categoryAttributes":[
+                {
+                    "name":"occupancy",
+                    "description":"estimate occupancy of vehicle - if unsure do not select",
+                    "type":"number",
+                    "isRequired": false
+                }
+              ]
+            },
+            {
+              "label":"Class 13 - Multi Trailer 7 or More Axle Truck",
+              "categoryAttributes":[
+                {
+                    "name":"occupancy",
+                    "description":"estimate occupancy of vehicle - if unsure do not select",
+                    "type":"number",
+                    "isRequired": false
+                }
+              ]
+            },
+
+            {
+              "label":"Pedestrian",
+              "categoryAttributes":[
+                {
+                    "name":"occupancy",
+                    "description":"Estimate occupancy of vehicle - if unsure do not select",
+                    "type":"number",
+                    "isRequired": false
+                }
+              ]
+            },
+            {
+              "label":"Bicyclist",
+              "categoryAttributes":[
+                {
+                    "name":"occupancy",
+                    "description":"Estimate occupancy of vehicle - if unsure do not select",
+                    "type":"number",
+                    "isRequired": false
+                }
+              ]
+            },
+
+            {
+              "label":"Class 5 - Fire Truck",
+              "categoryAttributes":[
+                {
+                    "name":"occupancy",
+                    "description":"estimate occupancy of vehicle - if unsure do not select",
+                    "type":"number",
+                    "isRequired": false
+                }
+              ]
+            },
+            {
+              "label":"Class 5 - Garbage Truck",
+              "categoryAttributes":[
+                {
+                    "name":"occupancy",
+                    "description":"estimate occupancy of vehicle - if unsure do not select",
+                    "type":"number",
+                    "isRequired": false
+                }
+              ]
+            },
+            {
+              "label":"Class 3 - Ambulance",
+              "categoryAttributes":[
+                {
+                    "name":"occupancy",
+                    "description":"estimate occupancy of vehicle - if unsure do not select",
+                    "type":"number",
+                    "isRequired": false
+                }
+              ]
+            },
+            {
+              "label":"Class 2 - Police Car",
+              "categoryAttributes":[
+                {
+                    "name":"occupancy",
+                    "description":"estimate occupancy of vehicle - if unsure do not select",
+                    "type":"number",
+                    "isRequired": false
+                }
+              ]
+            },
+
+            {
+              "label":"Class 2 - Taxi",
+              "categoryAttributes":[
+                {
+                    "name":"occupancy",
+                    "description":"Estimate occupancy of vehicle - if unsure do not select",
+                    "type":"number",
+                    "isRequired": false
+                }
+              ]
+            },
+
+            {
+              "label":"Other Transportation - Planes, Tranes",
+              "categoryAttributes":[
+                {
+                    "name":"occupancy",
+                    "description":"Estimate occupancy of vehicle - if unsure do not select",
+                    "type":"number",
+                    "isRequired": false
+                }
+              ]
+            },
+            {
+              "label":"Traffic Light",
+              "categoryAttributes":[]
+            },
+            {
+              "label":"Stop Sign",
+              "categoryAttributes":[]
+            },
+            {
+              "label":"Animal",
+              "categoryAttributes":[]
+            }
+
+   ],
+  "frameAttributes":[
+        {
+            "name":"day_night",
+            "description":"Day/Night",
+            "type":"string",
+            "enum":["day","night"]
+        },
+        {
+            "name":"road_type",
+            "description":"Road Description",
+            "type":"string",
+            "enum":["highway","urban","rural"]
+        },
+        {
+            "name":"weather_type",
+            "description":"Weather Description",
+            "type":"string",
+            "enum":["rain","snow","cloud","sun","clear"]
+        },
+        {
+            "name":"road_distance",
+            "description":"Distance to Road",
+            "type":"string",
+            "enum":["very far", "far", "close","very close"]
+        },
+        {
+            "name":"image_quality",
+            "description":"Image Quality",
+            "type":"string",
+            "enum":["low","medium","high"]
+        }
+  ],
+  "categoryGlobalAttributes":[
+        {
+            "name":"class_confidence_annotator",
+            "description":"Confidence in selecting the label",
+            "type":"string",
+            "enum":["low","medium","high"]
+        },
+        {
+            "name":"percent_visible",
+            "description":"% of object which is visible",
+            "type":"number"
+        }
+
+  ],
+  "instructions":{"shortInstruction": "Draw bounding boxes,assign object id, and track object id across frames for all road objects (vehicles, pedestrians, bicyclists, motorcyclists, animals, stop signs, and traffic lights) and.  \n\nPlease read extended instructions for class selection examples\n ",
+                  "fullInstruction":"<ul><li>Use the navigation bar in the bottom-left corner to see all video frames included in this task. Label each frame - correct the bounding boxes/object ids or draw new bounding boxes and assign new object ids if necessary. If an object appears in more than one frame, use the same Label ID for that object in each frame.&nbsp;</li><li>Use the predict next icon <img src=\"https://c.d.cdn.console.awsstatic.com/990c7942818c5a02fc8a7f97556065d9613a771fab8f8d41594ddfffc7ac4acd/src/images/PredictNext.svg\" style=\"max-width:100%\">, or the shortcut command <strong>P</strong>, to have the user interface automatically infer the location of bounding boxes in subsequent frames for objects once you’ve placed a single bounding box around an object or person. Adjust the location and dimensions these inferred boxes as needed.&nbsp;</li><li>After you add a bounding box, adjust the box to fit tightly around the boundaries of an object or a person.</li><li>Once you add a bounding box, select the associated label in the <strong>Labels</strong> menu to add label attributes, if applicable.&nbsp;</li><li>Use the <strong>Shortcuts</strong> menu to see keyboard shortcuts that you can use to label objects faster.</li><li>Use this <a href=\"https://docs.aws.amazon.com/sagemaker/latest/dg/sms-video-object-tracking.html#sms-video-ot-worker-ui\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(68, 185, 214);\">resource</a> to learn about worker portal navigation, tools available to complete your task, icons, and view options.</li><li>Please see below links for more information about the vehicle classifications: <a href=\"https://www.fhwa.dot.gov/policyinformation/tmguide/tmg_2013/vehicle-types.cfm\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(68, 185, 214);\">DOT Classes Information</a></li></ul>"
+                 },
+  "undefined":"2020-03-01",
+  "annotationType":null
+}
